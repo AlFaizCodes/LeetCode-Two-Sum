@@ -1,16 +1,3 @@
-/**
- * Two Sum - LeetCode Problem
- * 
- * Problem: Given an array of integers nums and an integer target, 
- * return indices of the two numbers such that they add up to target.
- * 
- * Approach: Brute Force
- * Time Complexity: O(n^2)
- * Space Complexity: O(1)
- * 
- * Note: The returned array must be malloced, assume caller calls free().
- */
-
 #include <stdlib.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
