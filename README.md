@@ -127,10 +127,3 @@ This approach reduces time complexity to O(n) with a single pass through the arr
 
 ## 📧 Author
 Solution submitted to LeetCode on **December 27, 2025**
-
-## 📄 License
-This repository is for educational purposes. Feel free to use and modify for learning.
-
----
-
-**Happy Learning! 🚀**
