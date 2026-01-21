@@ -21,28 +21,7 @@ Given an array of integers `nums` and an integer `target`, return the indices of
 ## 💻 Why C Language?
 **Author's Note:** This solution is implemented in **C language** because it is the primary language I'm currently learning and practicing. I'm proficient in C, while Python and Java are still being learned. This project serves as a practical application of my C programming knowledge for solving real LeetCode problems.
 
-## 📁 Repository Structure
-```
-LeetCode-Two-Sum/
-├── twoSum.c                    # C implementation of the solution
-├── PROBLEM_DESCRIPTION.md      # Detailed problem statement and approaches
-├── INPUT_OUTPUT_EXAMPLES.md    # Test cases with examples
-├── SOLUTION_EXPLANATION.md     # Step-by-step code breakdown
-├── COMPLEXITY_ANALYSIS.md      # Time and space complexity analysis
-├── EDGE_CASES.md              # Edge cases and testing strategy
-├── HASH_MAP_APPROACH.md       # Optimal O(n) hash map solution (reference)
-├── IMPLEMENTATION_NOTES.md    # C language specific notes
-├── COMMON_MISTAKES.md         # Common pitfalls and how to avoid them
-├── LEETCODE_TIPS.md          # LeetCode problem-solving tips
-├── INTERVIEW_PREP.md         # Interview preparation guide
-├── PERFORMANCE_TIPS.md       # Performance optimization techniques
-├── VARIATIONS.md             # Related problems and variations
-├── RESOURCES.md              # Learning resources and references
-├── FINAL_NOTES.md           # Summary and next steps
-├── README.md                 # This file
-└── JAVA_SOLUTION.java        # Reference implementation (Java)
-└── PYTHON_SOLUTION.py        # Reference implementation (Python)
-```
+
 
 ## 💡 Solution Code
 
